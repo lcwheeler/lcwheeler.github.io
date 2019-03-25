@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![an image alt text]({{ site.baseurl }}/images/me-with-bird.jpg "Gray Jay")
+![an image alt text]({{ site.baseurl }}/img/me-with-bird.jpg "Gray Jay")
 
 I received my PhD in biochemistry at the
 University of Oregon in 2017; studying the evolutionary biochemistry of the S100 protein family. In January, 2018 I started a postdoc position with [Dr. Stacey Smith](https://www.colorado.edu/smithlab/) at University of Colorado Boulder. My current work is focused on understanding the molecular mechanisms underlying the evolution of flower color. My scientific interests are broad, ranging from evolutionary biology to biophysics. I also have a life-long love of herpetology, which I have pursued
