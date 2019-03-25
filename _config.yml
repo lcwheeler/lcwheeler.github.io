@@ -23,13 +23,12 @@ description: Personal website of Lucas C. Wheeler, PhD
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources: "resources"
   News: "https://lcwheeler.github.io"
-  Photography: "photography"
-  CV: "CV"
-  Publications: "publications"
+  About: "aboutme"
   Research: "research"
+  Publications: "publications"
+  Resources: "resources"
+  Photography: "photography"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

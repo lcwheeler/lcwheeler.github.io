@@ -4,7 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
-This page contains information on software and other resources that I have had a hand in producing. All of these materials are free and open source.
+## Curriculum vitae
+<hr><hr>
+A PDF copy of my up-to-date CV can be downloaded [here](https://github.com/lcwheeler/curriculum_vitae/blob/master/CV_updated.pdf). 
+
 
 ## Scientific software tools
 <hr><hr>
