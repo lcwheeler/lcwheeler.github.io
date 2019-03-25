@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The quest for Fabianas; field adventures in Argentina
+title: The quest for Fabianas
+subtitle: Field adventures in Argentina
+bigimg: /img//laguna-preserve.jpg
 ---
-
-![an image alt text]({{ site.baseurl }}/images/laguna-preserve.jpg)
 
 I recently had the amazing opportunity to take a field trip to Argentina searching for several species of Solanaceae. This trip was part of an NSF-funded project in the Smith lab that aims to characterize the evolution of floral coloration in the Pentuieae sub-family of Solanaceae. 
 
@@ -15,125 +15,125 @@ See below for some photos of the trip:
 
 #### An apacheta (shrine to Pachamama) on a mountain pass in Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/apacheta.JPG)
+![an image alt text]({{ site.baseurl }}/img/apacheta.JPG)
 
 #### A juvenile beaked toad at the Laguna Blanca preserve
 
-![an image alt text]({{ site.baseurl }}/images/beaked-toad.JPG)
+![an image alt text]({{ site.baseurl }}/img/beaked-toad.JPG)
 
 #### A member of the genus Liolaemus at Laguna Blanca preserve
 
-![an image alt text]({{ site.baseurl }}/images/black-lizard.JPG)
+![an image alt text]({{ site.baseurl }}/img/black-lizard.JPG)
 
 #### A burrowing owl perched on a *Fabiana patagonica*
 
-![an image alt text]({{ site.baseurl }}/images/burrowing-owl.JPG)
+![an image alt text]({{ site.baseurl }}/img/burrowing-owl.JPG)
 
 #### The rented Renault duster in a desert canyon, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/canyon-duster.JPG)
+![an image alt text]({{ site.baseurl }}/img/canyon-duster.JPG)
 
 #### The duster near the site where we found flowering *Fabiana bryoides*
 
-![an image alt text]({{ site.baseurl }}/images/duster-bryoides.JPG)
+![an image alt text]({{ site.baseurl }}/img/duster-bryoides.JPG)
 
 #### The flowers of *Fabiana bryoides*
 
-![an image alt text]({{ site.baseurl }}/images/Fbryoides.JPG)
+![an image alt text]({{ site.baseurl }}/img/Fbryoides.JPG)
 
 #### *Fabiana densa* in Tucumán province
 
-![an image alt text]({{ site.baseurl }}/images/Fdensa.JPG)
+![an image alt text]({{ site.baseurl }}/img/Fdensa.JPG)
 
 #### *Fabiana denudata* at Laguna Blanca preserve
 
-![an image alt text]({{ site.baseurl }}/images/Fdenudata.JPG)
+![an image alt text]({{ site.baseurl }}/img/Fdenudata.JPG)
 
 #### *Fabiana patagonica* flowers, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/Fpatagonica.JPG)
+![an image alt text]({{ site.baseurl }}/img/Fpatagonica.JPG)
 
 #### *Fabiana punensis* flowers, Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/Fpunensis.JPG)
+![an image alt text]({{ site.baseurl }}/img/Fpunensis.JPG)
 
 #### A giant grasshopper in Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/giant-grasshopper.JPG)
+![an image alt text]({{ site.baseurl }}/img/giant-grasshopper.JPG)
 
 #### Laguna Blanca, Belén Department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/laguna-blanca.jpg)
+![an image alt text]({{ site.baseurl }}/img/laguna-blanca.jpg)
 
 #### The fruits of *Lycium chilense*, near Puelches, La Pampa
 
-![an image alt text]({{ site.baseurl }}/images/Lchilense.JPG)
+![an image alt text]({{ site.baseurl }}/img/Lchilense.JPG)
 
 #### The fruits of *Larrea divaricata*, near Puelches, La Pampa
 
-![an image alt text]({{ site.baseurl }}/images/Ldivaricata.JPG)
+![an image alt text]({{ site.baseurl }}/img/Ldivaricata.JPG)
 
 #### Fruiting *Lycium humile* on the Salar at Pasto Ventura, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/Lhumile.JPG)
+![an image alt text]({{ site.baseurl }}/img/Lhumile.JPG)
 
 #### The fruits of *Larrea nitida*, near Puelches, La Pampa
 
-![an image alt text]({{ site.baseurl }}/images/Lnitida.JPG)
+![an image alt text]({{ site.baseurl }}/img/Lnitida.JPG)
 
 #### *Nierembergia rigida* in Córdoba province
 
-![an image alt text]({{ site.baseurl }}/images/Nrigida.JPG)
+![an image alt text]({{ site.baseurl }}/img/Nrigida.JPG)
 
 #### Ornate tree iguana, Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/ornate-iguana.JPG)
+![an image alt text]({{ site.baseurl }}/img/ornate-iguana.JPG)
 
 #### Pampas grass on the shore of Laguna Blanca
 
-![an image alt text]({{ site.baseurl }}/images/pampas-grasses.JPG)
+![an image alt text]({{ site.baseurl }}/img/pampas-grasses.JPG)
 
 #### Burrowing parakeets, La Rioja province
 
-![an image alt text]({{ site.baseurl }}/images/parakeets.JPG)
+![an image alt text]({{ site.baseurl }}/img/parakeets.JPG)
 
 #### Parodia mammulosa, Lihuel Calel National Park, La Pampa
 
-![an image alt text]({{ site.baseurl }}/images/parodia-mammulosa.JPG)
+![an image alt text]({{ site.baseurl }}/img/parodia-mammulosa.JPG)
 
 #### The duster on the slope leading down to Pasto Ventura, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/pasto-mountain-duster.jpg)
+![an image alt text]({{ site.baseurl }}/img/pasto-mountain-duster.jpg)
 
 #### The salar at Pasto Ventura, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/pasto-ventura.jpg)
+![an image alt text]({{ site.baseurl }}/img/pasto-ventura.jpg)
 
 #### A flowering rain lilly, Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/rain-lilly.JPG)
+![an image alt text]({{ site.baseurl }}/img/rain-lilly.JPG)
 
 #### Red-tailed comet visiting *L. divaricata*, Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/red-tailed-comet.JPG)
+![an image alt text]({{ site.baseurl }}/img/red-tailed-comet.JPG)
 
 #### *Sclerophylax cynocrambe*, Belén department, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/sclerophylax.JPG)
+![an image alt text]({{ site.baseurl }}/img/sclerophylax.JPG)
 
 #### *Fabiana bryoides* (dark green) near an old stone circle, Antofagasta de la Sierra, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/stone-circle-bryoides.JPG)
+![an image alt text]({{ site.baseurl }}/img/stone-circle-bryoides.JPG)
 
 #### A tarantula hawk wasp, near Puelches, La Pampa
 
-![an image alt text]({{ site.baseurl }}/images/tarantula-hawk.JPG)
+![an image alt text]({{ site.baseurl }}/img/tarantula-hawk.JPG)
 
 #### A desert canyon in Western Tucumán province
 
-![an image alt text]({{ site.baseurl }}/images/tucuman-desert.jpg)
+![an image alt text]({{ site.baseurl }}/img/tucuman-desert.jpg)
 
 #### Vicuñas on the Salar del Hombre Muerto, Antofagasta de la Sierra, Catamarca
 
-![an image alt text]({{ site.baseurl }}/images/vicunas.JPG)
+![an image alt text]({{ site.baseurl }}/img/vicunas.JPG)
 
