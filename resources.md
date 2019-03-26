@@ -40,7 +40,8 @@ Ambigauss is another pet project and another work in progress, developed by the 
 
 Python is a very useful programming language that has become increasingly popular in the scientifc community in recent years. 
 My friends and I found that there was a lack of a single centralized guide to help scientists set up a working Python environment. 
-So, we decided to do something about it! We created a web page using "readthedocs" that walks through setting up a useful Python ecosystem and also contains brief overviews of popular scientific packages and visualization tools. 
+So, we decided to do something about it! We created a web page using [Read the Docs](https://readthedocs.org/) that walks through 
+setting up a useful Python ecosystem and also contains brief overviews of popular scientific packages and visualization tools. 
 
 *Follow this link to reach the guide:* 
 
@@ -53,7 +54,7 @@ Fork and clone the master [github repo](https://github.com/Zsailer/python-for-sc
 
 
 #### Pyway
-Emergent properties arise from interactions between multiple agents in systems with simple rules. Think of a school of fish or a flock of starlings. One of the most famous computational examples is the simulated world of Conway's game of life. By following just three simple rules that determine the behavior of individual agents in the model, beautifully complex and interesting patterns emerge. I created a simple Python package that contains all the tools necessary to simulate Conway's game of life on a grid of any size, using either random or user-defined initital conditions. Pyway is meant as a teaching tool. It simplifies the initialization of the game and allows visualizations to be made of game trajectories. 
+Emergent properties arise from interactions between individual agents within systems. Think of a school of fish or a flock of starlings. One of the most famous computational examples is the simulated world of Conway's game of life. By following just three simple rules that determine the behavior of individual agents in the model, beautifully complex and interesting patterns emerge. I created a simple Python package that contains all the tools necessary to simulate Conway's game of life on a grid of any size, using either random or user-defined initital conditions. Pyway is meant as a teaching tool. It simplifies the initialization of the game and allows visualizations to be made of game trajectories. 
 
 *You can install pyway from it's [github repo](https://github.com/lcwheeler/pyway).* 
 
