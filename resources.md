@@ -33,6 +33,13 @@ Ambigauss is another pet project and another work in progress, developed by the 
 *To install or contribute to ambigauss, go to the [github repo](https://github.com/BeerTheorySociety/ambigauss).*
 
 
+#### Kmertime
+
+Kmertime is a super simple tool, written in python and cython, for counting k-mers in sequence data. It is reasonably fast and uses a convenient "KmerSet" class for handling the data. Kmertime also has a built-in function for generating random sequences. 
+
+*To install or contribute to kmertime, go to the [github repo](https://github.com/lcwheeler/kmertime).*
+
+
 ## Educational materials
 <hr><hr>
 
