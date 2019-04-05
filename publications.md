@@ -22,7 +22,7 @@ Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2018). pytc: open source python sof
 #### 2017
 <hr>
 
-**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [BioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
+**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
 
 
 **Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: 10.1186/s13628-017-0040-y 
