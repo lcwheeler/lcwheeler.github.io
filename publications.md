@@ -11,7 +11,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2019
 <hr>
 
-**Wheeler LC**, Stacey SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs. [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: https://doi.org/10.1101/511089. 
+**Wheeler LC**, Stacey SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs. [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: 10.1101/511089. 
 
 
 #### 2018
@@ -25,7 +25,7 @@ Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2018). pytc: open source python sof
 **Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [BioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
 
 
-**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: https://doi.org/10.1186/s13628-017-0040-y 
+**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: 10.1186/s13628-017-0040-y 
 
 #### 2016
 <hr>
@@ -36,8 +36,7 @@ Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family.
 
 
 **Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
-and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science/article/pii/S0959440X16300501)
- (LCW and SAL contributed equally to the work) 
+and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science/article/pii/S0959440X16300501). doi: 10.1016/j.sbi.2016.05.015 (LCW and SAL contributed equally to the work) 
 
 ## Doctoral dissertation
 <hr><hr>
