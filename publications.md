@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en).  If you are unable to access a publication and would like to request a copy, contact me directly at lucas.wheeler@colorado.edu.
 
-## Peer-reviewed papers and pre-prints
+## Research and review articles
 <hr><hr>
 
 #### 2019
