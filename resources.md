@@ -26,13 +26,6 @@ Orbweaver is a pet project that is still a work in progress. It is a Python libr
 *To install or contribute to orbweaver, go to the [github repo](https://github.com/lcwheeler/orbweaver).*
 
 
-#### Ambigauss
-
-Ambigauss is another pet project and another work in progress, developed by the members of the [Beer and Theory Society](https://github.com/BeerTheorySociety). It's a Python library designed specifically for analyzing spectral datasets. It includes tools for finding peaks, fitting various spectral shapes to data, and simulating data. 
-
-*To install or contribute to ambigauss, go to the [github repo](https://github.com/BeerTheorySociety/ambigauss).*
-
-
 #### Kmertime
 
 Kmertime is a super simple tool, written in python and cython, for counting k-mers in sequence data. It is reasonably fast and uses a convenient "KmerSet" class for handling the data. Kmertime also has a built-in function for generating random sequences. 
