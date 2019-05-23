@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 <hr>
 
 **Wheeler LC**, Stacey SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs.
-[Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icz049/5497801?guestAccessKey=6d4d5dc9-52b6-4a41-8789-0e90597a0816); doi:10.1093/icb/icz049. (A version of this article is also at [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: 10.1101/511089.)
+[Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icz049/5497801?guestAccessKey=6d4d5dc9-52b6-4a41-8789-0e90597a0816); doi:10.1093/icb/icz049. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: 10.1101/511089.)
 
 
 #### 2018
