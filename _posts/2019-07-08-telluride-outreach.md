@@ -11,6 +11,7 @@ This was a very fun opportunity to travel to the Western slope and interact with
 
 ### Pictures from the outreach events
 
+
 #### Posters for the events that were hung up aroud the area
 
 ![an image alt text]({{ site.baseurl }}/img/pinhead-posters.jpg)
@@ -34,6 +35,7 @@ This was a very fun opportunity to travel to the Western slope and interact with
 
 ### Nature photos from the trip
 
+
 #### A field of penstemons near Placerville, CO (two species growing together)
 
 ![an image alt text]({{ site.baseurl }}/img/penstemons.JPG)
@@ -48,15 +50,15 @@ This was a very fun opportunity to travel to the Western slope and interact with
 
 #### Thousands of wild onions (*Allium acuminatum*) at Black Canyon of the Gunnision NP
 
-![an image alt text]({{ site.baseurl }}/img/telluride-mountains.JPG)
+![an image alt text]({{ site.baseurl }}/img/wild-onion.JPG)
 
 #### Visitor to a penstemon at Black Canyon of the Gunnision NP
 
 ![an image alt text]({{ site.baseurl }}/img/penstemon-visitor.JPG)
 
-#### Pink prickly pear (*Opuntia*) flower Black Canyon of the Gunnision NP
+#### Pink prickly pear flower and yellow stonecrop at Black Canyon of the Gunnision NP
 
-![an image alt text]({{ site.baseurl }}/img/penstemon-visitor.JPG)
+![an image alt text]({{ site.baseurl }}/img/stonecrop-and-pricklypear.JPG)
 
 
 
