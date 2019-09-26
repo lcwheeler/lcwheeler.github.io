@@ -54,7 +54,7 @@ Fork and clone the master [github repo](https://github.com/Zsailer/python-for-sc
 
 
 #### Pyway
-Emergent properties arise from interactions between individual agents within systems. Think of a school of fish or a flock of starlings. One of the most famous computational examples is the simulated world of Conway's game of life. By following just three simple rules that determine the behavior of individual agents in the model, beautifully complex and interesting patterns emerge. I created a simple Python package that contains all the tools necessary to simulate Conway's game of life on a grid of any size, using either random or user-defined initital conditions. Pyway is meant as a teaching tool. It simplifies the initialization of the game and allows visualizations to be made of game trajectories. 
+Emergent properties arise from interactions between individual agents within systems. Think of a school of fish or a flock of starlings. One of the most famous computational examples is the simulated world of Conway's game of life. By following just three simple rules that determine the behavior of individual agents in the model and their relationships to neighbors, beautifully complex and interesting patterns emerge. I created a simple Python package that contains all the tools necessary to simulate Conway's game of life on a grid of any size, using either random or user-defined initital conditions. Pyway is meant as a teaching tool. It simplifies the initialization of the game and allows visualizations to be made of game trajectories. 
 
 *You can install pyway from it's [github repo](https://github.com/lcwheeler/pyway).* 
 
