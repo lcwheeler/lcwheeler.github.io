@@ -25,7 +25,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/img/serra_do_rio_rastro.JPG)
 
-#### *Calibracho sellowiana", Serra do Rio do Rastro, Santa Catarina, Brazil
+#### *Calibracho sellowiana*, Serra do Rio do Rastro, Santa Catarina, Brazil
 
 ![an image alt text]({{ site.baseurl }}/img/Csellowiana.JPG)
 
@@ -53,7 +53,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/img/Ceglandulata.JPG)
 
-#### A road through the forest with visible *Aurcaria angustofolia* Santa Catarina, Brazil
+#### A road through the forest with visible *Aurcaria angustofolia*, Santa Catarina, Brazil
 
 ![an image alt text]({{ site.baseurl }}/img/aurucaria-road.JPG)
 
@@ -88,14 +88,6 @@ See below for some photos of the trip:
 #### Passion flower, Iguazu Falls NP, Misiones, Argentina
 
 ![an image alt text]({{ site.baseurl }}/img/passion-flower.JPG)
-
-#### Passion flower, Iguazu Falls NP, Misiones, Argentina
-
-![an image alt text]({{ site.baseurl }}/img/passion-flower.JPG)
-
-#### *Petunia guarapuavensis*, near Iguazu Falls NP, Misiones, Argentina
-
-![an image alt text]({{ site.baseurl }}/img/Pguarapuavensis.JPG)
 
 #### *Petunia guarapuavensis*, near Iguazu Falls NP, Misiones, Argentina
 
@@ -137,7 +129,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/img/Pinflata.JPG)
 
-#### Searching for *C longistyla* on the abandoned train trackes, Santo Tome, Corrientes, Argentina
+#### Searching for *Calibrachoa longistyla* on the abandoned train trackes, Santo Tome, Corrientes, Argentina
 
 ![an image alt text]({{ site.baseurl }}/img/santo-tome-train-tracks.JPG)
 
