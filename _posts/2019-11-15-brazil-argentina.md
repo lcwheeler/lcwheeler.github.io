@@ -135,7 +135,7 @@ See below for some photos of the trip:
 
 #### Termite mound South of Virasora, Corrientes, Argentina
 
-![an image alt text]({{ site.baseurl }}/img/Pinflata.JPG)
+![an image alt text]({{ site.baseurl }}/img/termite-mound.JPG)
 
 #### *Calibrachoa ovalifolia* South of Virasora, Corrientes, Argentina
 
