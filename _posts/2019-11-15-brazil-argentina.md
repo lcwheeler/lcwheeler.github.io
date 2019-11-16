@@ -129,7 +129,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/img/Pinflata.JPG)
 
-#### Searching for *Calibrachoa longistyla* on the abandoned train trackes, Santo Tome, Corrientes, Argentina
+#### Searching for *Calibrachoa longistyla* on the abandoned train tracks, Santo Tome, Corrientes, Argentina
 
 ![an image alt text]({{ site.baseurl }}/img/santo-tome-train-tracks.JPG)
 
