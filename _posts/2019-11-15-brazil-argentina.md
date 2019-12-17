@@ -5,7 +5,7 @@ subtitle: Field adventures in Brazil and Argentina
 bigimg: /img/brazil-landscape.jpg
 ---
 
-My research in the Smith lab has once again taken me to the Southern hemisphere! We are compiling a large transcriptomic dataset from across the Petunieae sub-family of the Solanaceae family. This work necessitates sampling from individuals of this group in their native habitats, which are found in primarily in South America. On this trip I first traveled to Brazil and then to Argentina, collecting samples along the way. In total my colleagues and I were able to collect samples from 16 species from the *Calibrachoa*, *Petunia*, *Brunfelsia*, and *Nierembergia* genera. 
+My research in the Smith lab has once again taken me to the Southern hemisphere! We are compiling a large transcriptomic dataset from across the Petunieae sub-family of the Solanaceae family. This work necessitates sampling from individuals of this group in their native habitats, which are found primarily in South America. On this trip I first traveled to Brazil and then to Argentina, collecting samples along the way. In total my colleagues and I were able to collect samples from 16 species from the *Calibrachoa*, *Petunia*, *Brunfelsia*, and *Nierembergia* genera. 
 
 During my time in Brazil I worked and traveled with two students from the lab of [Loreta Brandão de Freitas](http://www.ufrgs.br/ppgbm/corpo-docente/loreta-brandao-de-freitas/?lang=en) at UFRGS in Porto Alegre, Alice Backes and Pedro Pezzi. I flew to Porto Alegre from Denver and from there we made our way in a rental car to the North. Our trip took us first up the coast and then into the beautiful highlands region of Serra do Rio do Rastro. From there we then traversed forests, hills, and valleys collecting samples from a list of Solanaceae species: *Calibrachoa heterophylla*, *Calibrachoa sellowiana*, *Calibrachoa sendtneriana*, *Calibrachoa linoides*, *Petunia reitzii*, *Calibrachoa	eglandulata*, *Petunia altiplana*, and *Brunfelsia	cuneifolia*. After collecting samples, we made our way back to Porto Alegre where I spent the remainder of the Brazil trip preparing RNA-seq libraries. 
 
@@ -25,7 +25,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/img/serra_do_rio_rastro.JPG)
 
-#### *Calibracho sellowiana*, Serra do Rio do Rastro, Santa Catarina, Brazil
+#### *Calibrachoa sellowiana*, Serra do Rio do Rastro, Santa Catarina, Brazil
 
 ![an image alt text]({{ site.baseurl }}/img/Csellowiana.JPG)
 
