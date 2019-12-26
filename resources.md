@@ -59,3 +59,17 @@ Emergent properties arise from interactions between individual agents within sys
 *You can install pyway from it's [github repo](https://github.com/lcwheeler/pyway).* 
 
 
+## Recorded presentations
+<hr><hr>
+
+
+#### Evolution 2019 in Providence, Rhode Island
+
+Click on the following link: [talk video](https://www.youtube.com/watch?v=py3jSv0BCgE)
+
+
+
+
+
+
+
