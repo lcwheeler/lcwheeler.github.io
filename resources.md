@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Curriculum vitae
 <hr><hr>
-A PDF copy of my up-to-date CV can be downloaded [here](https://github.com/lcwheeler/curriculum_vitae/blob/master/CV_updated.pdf). 
+A PDF copy of my up-to-date CV can be downloaded [here](https://github.com/lcwheeler/curriculum_vitae/blob/master/LucasCWheeler_CV.pdf). 
 
 
 ## Scientific software tools
