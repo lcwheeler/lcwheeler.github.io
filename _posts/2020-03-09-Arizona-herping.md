@@ -11,7 +11,7 @@ We first spent some time exploring the area around Tucson, Arizona. The little-v
 
 #### Landscape at Ironwood National Monument
 
-![an image alt text]({{ site.baseurl }}/img/ironwoodNM-landscape.JPG)
+![an image alt text]({{ site.baseurl }}/img/ironwoodNM-landscape.jpg)
 
 #### Hohokam petroglyphs at Ironwood National Monument
 
@@ -23,7 +23,7 @@ We first spent some time exploring the area around Tucson, Arizona. The little-v
 
 #### Close-up shot of Brittlebrush (*Encelia farinosa*) inflorescence at Ironwood NM
 
-![an image alt text]({{ site.baseurl }}/img/night-blooming-cereus.JPG)
+![an image alt text]({{ site.baseurl }}/img/Brittlebrush.JPG)
 
 #### Flowers and fruits of Creosote bush (*Larrea tridentata*) at Ironwood NM
 
@@ -38,7 +38,7 @@ We started out from Tucson, AZ and headed west to the Barry M. Goldwater test ra
 
 #### Rocks near the high tanks in the Tinajas Altas Mountains
 
-![an image alt text]({{ site.baseurl }}/img/tinajas-altas-rocks.JPG)
+![an image alt text]({{ site.baseurl }}/img/tinajas-altas-rocks.jpg)
 
 #### One of the elevated tanks, providing a habitat for toads and other animals
 
@@ -56,10 +56,6 @@ We started out from Tucson, AZ and headed west to the Barry M. Goldwater test ra
 
 ![an image alt text]({{ site.baseurl }}/img/Dudleya-arizonica.JPG)
 
-#### A large truck hauling sand for border wall construction
-
-![an image alt text]({{ site.baseurl }}/img/sand-truck.JPG)
-
 
 
 We then set out across the NWR on the famous El Camino del Diablo, a place I haven't been to since I was a teenager. The incredible Sonoran desert landscape was teeming with wildflowers and wildlife. It's been a wet Winter and Spring. The mountains, lava flows, and sand dune areas of the NWR are not frequently visited by recreational travelers. Most of the other people we saw were either border patrol officers or workers brought to the area by the unfortunate construction of the border wall, who were busy stripping and transporting sand from desert washes to pour concrete for foundations. They are building the wall across the currently-uninterrupted land connecting Cabeza Prieta NWR to La Reserva de la Biosfera El Pinacate y Gran Desierto de Altar in Mexico.
@@ -71,6 +67,10 @@ We then set out across the NWR on the famous El Camino del Diablo, a place I hav
 #### A cotton-top barrel cactus alongside el Camino del Diablo
 
 ![an image alt text]({{ site.baseurl }}/img/cotton-top-barrel.JPG)
+
+#### A large truck hauling sand for border wall construction
+
+![an image alt text]({{ site.baseurl }}/img/sand-truck.JPG)
 
 #### A truck hauling water for the border wall construction project
 
@@ -122,11 +122,11 @@ Finally we traversed the remainder of El Camino del Diablo, along the Mexican bo
 
 #### Yuman Desert Fringe-Toed Lizard (*Uma rufopunctata*) at Pinacate Sands
 
-![an image alt text]({{ site.baseurl }}/img/Uma-rufopunctata.jpg)
+![an image alt text]({{ site.baseurl }}/img/Uma-rufopunctata.JPG)
 
 #### Western whiptail (*Aspidoscelis tigris*) 
 
-![an image alt text]({{ site.baseurl }}/img/Aspidoscelis-tigris.jpg)
+![an image alt text]({{ site.baseurl }}/img/Aspidoscelis-tigris.JPG)
 
 #### Mojave rattlesnake (*Crotalus scutulatus*) in Organ Pipe NM
 
