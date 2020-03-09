@@ -60,7 +60,7 @@ We started out from Tucson, AZ and headed west to the Barry M. Goldwater test ra
 
 We then set out across the NWR on the famous El Camino del Diablo, a place I haven't been to since I was a teenager. The incredible Sonoran desert landscape was teeming with wildflowers and wildlife. It's been a wet Winter and Spring. The mountains, lava flows, and sand dune areas of the NWR are not frequently visited by recreational travelers. Most of the other people we saw were either border patrol officers or workers brought to the area by the unfortunate construction of the border wall, who were busy stripping and transporting sand from desert washes to pour concrete for foundations. They are building the wall across the currently-uninterrupted land connecting Cabeza Prieta NWR to La Reserva de la Biosfera El Pinacate y Gran Desierto de Altar in Mexico.
 
-#### El Camino del Diablo stretching out the East along the US/Mexico border
+#### El Camino del Diablo stretching out to the East along the US/Mexico border
 
 ![an image alt text]({{ site.baseurl }}/img/camino-del-diablo.JPG)
 
