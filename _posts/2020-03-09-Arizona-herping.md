@@ -118,13 +118,13 @@ Finally we traversed the remainder of El Camino del Diablo, along the Mexican bo
 
 #### An Organ Pipe Cactus (*Stenocereus thurberi*)
 
-![an image alt text]({{ site.baseurl }}/img/Bcuneifolia.JPG)
+![an image alt text]({{ site.baseurl }}/img/OrganPipeCactus.JPG)
 
 #### Yuman Desert Fringe-Toed Lizard (*Uma rufopunctata*) at Pinacate Sands
 
 ![an image alt text]({{ site.baseurl }}/img/Uma-rufopunctata.JPG)
 
-#### Western whiptail (*Aspidoscelis tigris*) 
+#### Western whiptail (*Aspidoscelis tigris*), Cabeza Prieta NWR
 
 ![an image alt text]({{ site.baseurl }}/img/Aspidoscelis-tigris.JPG)
 
@@ -132,7 +132,7 @@ Finally we traversed the remainder of El Camino del Diablo, along the Mexican bo
 
 ![an image alt text]({{ site.baseurl }}/img/Crotalus-scutulatus.JPG)
 
-#### Field of flowering globemallow at Darby Well
+#### Field of flowering globemallow at Bates Well, Organ Pipe NM
 
 ![an image alt text]({{ site.baseurl }}/img/orange-globemallow.JPG)
 
