@@ -74,6 +74,7 @@ We then set out across the NWR on the famous El Camino del Diablo, a place I hav
 ![an image alt text]({{ site.baseurl }}/img/sand-truck.JPG)
 
 #### A truck hauling water for the border wall construction project
+We were nearly run off the road by several of these trucks driving at about 50 mph in an area where the maximum speed should be around 25 mph. We complained to a project manager from the contractor, but I am not confident the behavior will change. 
 
 ![an image alt text]({{ site.baseurl }}/img/CB_NWR_watertruck.JPG)
 
