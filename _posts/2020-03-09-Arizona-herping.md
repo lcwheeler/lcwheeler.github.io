@@ -26,7 +26,7 @@ We first spent some time exploring the area around Tucson, Arizona. The little-v
 ![an image alt text]({{ site.baseurl }}/img/Brittlebrush.JPG)
 
 #### Flowers and fruits of Creosote bush (*Larrea tridentata*) at Ironwood NM
-*Larrea tridentata* is the only species of the genus *Larrea* native to North America. My former colleague [Rob Laport](http://www.robertlaport.com/) uses *Larrea* as a model system to study variations in ploidy.
+*Larrea tridentata* is the only species of the genus *Larrea* native to North America. My former labmate [Rob Laport](http://www.robertlaport.com/) uses *Larrea* as a model system to study variations in ploidy.
 
 ![an image alt text]({{ site.baseurl }}/img/Larrea-tridentata-flowers.JPG)
 
