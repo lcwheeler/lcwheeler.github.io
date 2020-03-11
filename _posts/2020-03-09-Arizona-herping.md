@@ -74,7 +74,7 @@ We then set out across the NWR on the famous El Camino del Diablo, a place I hav
 ![an image alt text]({{ site.baseurl }}/img/sand-truck.JPG)
 
 #### A truck hauling water for the border wall construction project
-We were nearly run off the narrow, sandy road by several of these trucks driving at about 50 mph in an area where the maximum speed should be around 25 mph. We complained to a supervisor from the contractor, Fisher Sand and Gravel Company, but I am not confident the behavior will change. 
+We were nearly run off the narrow, sandy road by several of these trucks driving at about 50 mph in an area where the maximum speed should be around 25 mph. They refused to stop, slow down, or yield space, forcing us to quickly move to the side to avoid a collision. We complained to a supervisor from the contractor, Fisher Sand and Gravel Company, but I am not confident the behavior will change. 
 
 ![an image alt text]({{ site.baseurl }}/img/CB_NWR_watertruck.JPG)
 
