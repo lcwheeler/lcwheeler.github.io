@@ -26,6 +26,7 @@ We first spent some time exploring the area around Tucson, Arizona. The little-v
 ![an image alt text]({{ site.baseurl }}/img/Brittlebrush.JPG)
 
 #### Flowers and fruits of Creosote bush (*Larrea tridentata*) at Ironwood NM
+*Larrea tridentata* is the only species of the genus *Larrea* native to North America. My former colleague [Rob Laport](http://www.robertlaport.com/) uses *Larrea* as a model system to study variations in ploidy.
 
 ![an image alt text]({{ site.baseurl }}/img/Larrea-tridentata-flowers.JPG)
 
@@ -89,6 +90,7 @@ We camped about halfway across the refuge near Christmas Camp and Tule Well, whe
 ![an image alt text]({{ site.baseurl }}/img/christmas-pass-bowl.JPG)
 
 #### *Physalis crassifolia* growing on a hillside near Christmas Pass
+*Physalis* is a genus in the Solanaceae family. My labmate in the Smith lab [Chelsea Pretz](https://www.colorado.edu/smithlab/people/chelsea-pretz) studies the evolution of self-incompatibility in this genus. 
 
 ![an image alt text]({{ site.baseurl }}/img/physalis-crassifolia.JPG)
 
@@ -101,6 +103,7 @@ We camped about halfway across the refuge near Christmas Camp and Tule Well, whe
 ![an image alt text]({{ site.baseurl }}/img/ash-throat-flycatcher.JPG)
 
 #### A bee checked in for the night at the Desert Gold Hotel
+We observed several bees and flies tucking themselves into the flowers of Desert Gold to spend the night. The flowers close up after dark, making a safe little hotel for the visitors. 
 
 ![an image alt text]({{ site.baseurl }}/img/sleeping-bee.JPG)
 
@@ -121,6 +124,7 @@ Finally we traversed the remainder of El Camino del Diablo, along the Mexican bo
 ![an image alt text]({{ site.baseurl }}/img/OrganPipeCactus.JPG)
 
 #### Yuman Desert Fringe-Toed Lizard (*Uma rufopunctata*) at Pinacate Sands
+This lizard is endemic to the Sonoran desert area North of the Gulf of California. [This Study](https://www.sciencedirect.com/science/article/abs/pii/S1055790316302330?via%3Dihub) indicates that *Uma rufopunctata* is actually not a separate species, but a hybrid of *Uma notata* and *Uma cowlesi*. 
 
 ![an image alt text]({{ site.baseurl }}/img/Uma-rufopunctata.JPG)
 
