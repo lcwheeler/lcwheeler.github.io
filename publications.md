@@ -11,7 +11,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2020
 <hr>
 
-**Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [bioRxiv] (https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261.)
+**Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261.)
 
 
 #### 2019
