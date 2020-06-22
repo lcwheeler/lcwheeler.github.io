@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Here is a list of my publications, which can also be found on my [Google Scholar](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en) and [OrcID](https://orcid.org/0000-0002-9483-9792?lang=en) pages. If you are unable to access a publication for any reason and would like to request a copy, please contact me directly at lucas.wheeler@colorado.edu."\*" indicates corresponding author.
+Here is a list of my publications, which can also be found on my [Google Scholar](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en) and [OrcID](https://orcid.org/0000-0002-9483-9792?lang=en) pages. If you are unable to access a publication for any reason and would like to request a copy, please contact me directly at lucas.wheeler@colorado.edu. \* indicates corresponding author.
 
 ## Research and review articles
 <hr><hr>
