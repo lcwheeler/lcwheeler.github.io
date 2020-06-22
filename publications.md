@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Here is a list of my publications, which can also be found on my [Google Scholar](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en) and [OrcID](https://orcid.org/0000-0002-9483-9792?lang=en) pages. If you are unable to access a publication for any reason and would like to request a copy, please contact me directly at lucas.wheeler@colorado.edu.
+Here is a list of my publications, which can also be found on my [Google Scholar](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en) and [OrcID](https://orcid.org/0000-0002-9483-9792?lang=en) pages. If you are unable to access a publication for any reason and would like to request a copy, please contact me directly at lucas.wheeler@colorado.edu."\*" indicates corresponding author.
 
 ## Research and review articles
 <hr><hr>
@@ -20,7 +20,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2019
 <hr>
 
-**Wheeler LC**, Smith SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs.
+**Wheeler LC\***, Smith SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs.
 [Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icz049/5497801?guestAccessKey=6d4d5dc9-52b6-4a41-8789-0e90597a0816); doi:10.1093/icb/icz049. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: 10.1101/511089.)
 
 
