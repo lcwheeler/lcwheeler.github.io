@@ -11,6 +11,9 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2020
 <hr>
 
+**Wheeler LC**, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1); doi: 10.1101/2020.08.18.256503
+
+
 **Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1); doi: 10.1101/2020.06.02.131086v1.
 
 
