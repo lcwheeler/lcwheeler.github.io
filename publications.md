@@ -14,10 +14,10 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 **Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1); doi: 10.1101/2020.08.18.256503
 
 
-**Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1); doi: 10.1101/2020.06.02.131086v1.
-
-
 **Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261.
+
+
+**Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. Protein Science (in press) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1); doi: 10.1101/2020.06.02.131086v1.)
 
 
 #### 2019
