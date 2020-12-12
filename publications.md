@@ -32,11 +32,11 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 
 Duvvuri H, **Wheeler LC**, Harms MJ (2018). pytc: open source python software for global analyses of isothermal titration calorimetry data. [Biochemistry](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b01264); doi: 10.1021/acs.biochem.7b01264. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682))
 
+
+**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2018). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
+
 #### 2017
 <hr>
-
-**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
-
 
 **Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: 10.1186/s13628-017-0040-y 
 
