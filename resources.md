@@ -14,7 +14,7 @@ A PDF copy of my up-to-date CV can be downloaded [here](https://github.com/lcwhe
 
 #### Enzo
 
-Enzo is a simple python library that allows mathematical models of metabolic pathways to be evolved between phenotypic states. I developed this approach for a [paper](https://www.biorxiv.org/content/early/2019/01/03/511089) on the simulated evolution of the anthocyanin biosynthesis pathway. Enzo is a wrapper for the [Tellurium](http://tellurium.analogmachine.org/) environment, which is an excellent tool for developing reproducible systems biology simulations in Python. Enzo is a work in progress and I am planning to add additional functionality as time goes by. 
+Enzo is a simple python library that allows mathematical models of metabolic pathways to be evolved between phenotypic states. I developed this approach for a [paper](https://www.biorxiv.org/content/early/2019/01/03/511089) on the simulated evolution of the anthocyanin biosynthesis pathway. Enzo is a wrapper for the [Tellurium](http://tellurium.analogmachine.org/) environment, which is an excellent tool for developing reproducible systems biology simulations in Python. Enzo is a work in progress and I am planning to add additional functionality as time goes by. The primary **purpose of its existence** is to allow the simulations performed in [Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs](https://www.biorxiv.org/content/early/2019/01/03/511089) and [Structure and contingency determine mutational hotspots for flower color evolution](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1) to be easily replicated. 
 
 *To install or contribute to enzo, go to the [github repo](https://github.com/lcwheeler/enzo).*
 
