@@ -62,37 +62,27 @@ Emergent properties arise from interactions between individual agents within sys
 ## Recorded presentations
 <hr><hr>
 
-#### Solanaceae Seminar Series 2020, Online
+[Solanaceae Seminar Series 2020, Online](https://www.youtube.com/watch?v=OhSREoCemU0&feature=youtu.be)
 
-Click [here](https://www.youtube.com/watch?v=OhSREoCemU0&feature=youtu.be)
-
-#### Evolution 2019 in Providence, Rhode Island
-
-Click [here](https://www.youtube.com/watch?v=py3jSv0BCgE)
+[Evolution 2019 in Providence, Rhode Island](https://www.youtube.com/watch?v=py3jSv0BCgE)
 
 
 ## Datasets and article repos
 <hr><hr>
 
-#### Github repo for "Were ancestral proteins less-specific?"
+[Github repo for "Were ancestral proteins less-specific?"](https://github.com/harmslab/were-anc-less-specific)
 
-Click [here](https://github.com/harmslab/were-anc-less-specific)
 
-#### SRA BioProject phage display dataset used in "Were ancestral proteins less-specific?" and "Learning peptide recognition rules for a low-specificity protein."
+[SRA BioProject phage display dataset used in "Were ancestral proteins less-specific?" and "Learning peptide recognition rules for a low-specificity protein."](https://www.ncbi.nlm.nih.gov/bioproject?LinkName=sra_bioproject&from_uid=11384227)
 
-Click [here](https://www.ncbi.nlm.nih.gov/bioproject?LinkName=sra_bioproject&from_uid=11384227)
 
-#### OSF repo for "Structure and contingency determine mutational hotspots for flower color evolution."
+[OSF repo for "Structure and contingency determine mutational hotspots for flower color evolution."](https://osf.io/kxr23/)
 
-Click [here](https://osf.io/kxr23/)
 
-#### Zenodo repo for "Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs."
+[Zenodo repo for "Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs."](https://zenodo.org/record/2611739#.X9UWM8J7k8p)
 
-Click [here](https://zenodo.org/record/2611739#.X9UWM8J7k8p)
 
-#### Github repo for "S100A5 binds Ca2+ and Cu2+ independently."
-
-Click [here](https://github.com/harmslab/wheeler-harms-S100A5-Ca-Cu-data)
+[Github repo for "S100A5 binds Ca2+ and Cu2+ independently."](https://github.com/harmslab/wheeler-harms-S100A5-Ca-Cu-data)
 
 
 
