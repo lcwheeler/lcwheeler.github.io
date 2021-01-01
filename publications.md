@@ -11,7 +11,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2020
 <hr>
 
-**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1); doi: 10.1101/2020.08.18.256503
+**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212); doi:10.1002/evl3.212 (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
 
 
 **Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261.
