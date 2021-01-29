@@ -8,13 +8,17 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 ## Research and review articles
 <hr><hr>
 
+
+#### 2021
+<hr>
+
+**Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? Molecular Biology and Evolution (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261)
+
+
 #### 2020
 <hr>
 
 **Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212); doi:10.1002/evl3.212 (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
-
-
-**Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261.
 
 
 **Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [Protein Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3958); doi.org/10.1002/pro.3958. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1); doi: 10.1101/2020.06.02.131086v1.)
@@ -39,6 +43,7 @@ Duvvuri H, **Wheeler LC**, Harms MJ (2018). pytc: open source python software fo
 <hr>
 
 **Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: 10.1186/s13628-017-0040-y 
+
 
 #### 2016
 <hr>
