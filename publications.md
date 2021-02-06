@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2021
 <hr>
 
-**Wheeler LC**, Harms MJ (2020). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261)
+**Wheeler LC**, Harms MJ (2021). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261)
 
 
 #### 2020
