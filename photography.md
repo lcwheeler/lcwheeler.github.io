@@ -39,7 +39,11 @@ On this page are a few of my favorite photos that I have taken.
 #### Vicuña and Andean flamingo, Salar del Hombre Muerto, Catamarca, Argentina
 ![an image alt text]({{ site.baseurl }}/img/vicuna.JPG "Vicuna")
 
-#### Simpson's hedgehog cactus on North Table Mountain, CO ("Best Plant Photo" in Denver-Boulder 2019 City Nature Challenge on iNaturalist)
+#### Simpson's hedgehog cactus on North Table Mountain, CO 
+This image won "Best Plant Photo" in Denver-Boulder 2019 City Nature Challenge on iNaturalist
 ![an image alt text]({{ site.baseurl }}/img/winning-simpsons-hedgehog.JPG "Simpsons")
 
+#### Petunia schiedeana (guarapuavensis) with petal cell inset
+This image was used on the cover of [Volume 59, Issue 3](https://academic.oup.com/icb/issue/59/3) of Integrative and Comparative Biology
+![an image alt text]({{ site.baseurl }}/img/cover-submission-lcw-sds.jpg "Cover")
 
