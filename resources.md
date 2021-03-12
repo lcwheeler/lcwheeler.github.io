@@ -64,6 +64,8 @@ Emergent properties arise from interactions between individual agents within sys
 
 [Solanaceae Seminar Series 2020, Online](https://www.youtube.com/watch?v=OhSREoCemU0&feature=youtu.be)
 
+[Botany Virtual Conference 2020, Online](https://www.youtube.com/watch?v=FpXiIhmI6p8&t=21s)
+
 [Evolution 2019 in Providence, Rhode Island](https://www.youtube.com/watch?v=py3jSv0BCgE)
 
 
