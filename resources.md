@@ -72,10 +72,10 @@ Emergent properties arise from interactions between individual agents within sys
 ## Datasets and article repos
 <hr><hr>
 
-[//]: # [OSF repo for "Dynamics of pigment pathway evolution in the Petunieae clade (Solanaceae)"](https://osf.io/b7gcp/)
+\[OSF repo for "Dynamics of pigment pathway evolution in the Petunieae clade (Solanaceae)"](https://osf.io/b7gcp/)
 
 
-[//]: # [SRA BioProject RNA-seq dataset for "Dynamics of pigment pathway evolution in the Petunieae clade (Solanaceae)"](https://www.ncbi.nlm.nih.gov/sra/PRJNA746328)
+\[SRA BioProject RNA-seq dataset for "Dynamics of pigment pathway evolution in the Petunieae clade (Solanaceae)"](https://www.ncbi.nlm.nih.gov/sra/PRJNA746328)
 
 
 [Github repo for "Were ancestral proteins less-specific?"](https://github.com/harmslab/were-anc-less-specific)
