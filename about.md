@@ -48,6 +48,11 @@ Recent events in the United States have made it clearer than ever to many people
 
 At the beginning of 2021 I was appointed to a two-year term as an at-large member of the Colorado Department of Agriculture [Noxious Weed Adivsory Committee](https://ag.colorado.gov/conservation/noxious-weeds/advisory-committee). The purpose of the committee is to advise CDA on strategies for the classification and management of noxious weeds in the state of Colorado. As an at-large member my constituency is the entire state, so if you live in Colorado and you have questions, comments, concerns, or ideas about noxious weed management, please reach out. 
 
+### Co-organization of the SOL Seminar Online series
+
+I am one of the organizers for the [Solanaceae Seminar Online](https://physaloidseminars.weebly.com/) series, a virtual platform for the discussion of research in the Solanaceae that hosts an international community of plant researchers. 
+
+
 ### Contact me
 
 #### If you would like to contact me regarding my research, collaboration, etc. please use the following email. 
