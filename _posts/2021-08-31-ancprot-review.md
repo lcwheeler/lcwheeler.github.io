@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excellent third-party review of disseration work with Mike Harms
+title: Excellent third-party review of my dissertation work with Mike Harms
 ---
 
 
