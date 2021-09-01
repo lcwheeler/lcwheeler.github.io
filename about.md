@@ -41,7 +41,7 @@ I have a strong interest in promoting policies of open science and broader colla
 
 ### Statement on diversity and inclusion
 
-Recent events in the United States have made it clearer than ever to many people that our country exhibits pervasive problems with racism and discrimination. As much as we might like to believe otherwise, academia is not immune from these problems and in fact suffers from many issues regarding a lack of diversity, equity, and inclusion. In many cases people are actively driven from academic communities by the misdeeds of others and the burdens of a system that carries the marks of this country's long history of discrimination. During my as yet brief career, I have tried to contribute to activities that help to weaken the barriers of discrimination. I have engaged in a variety outreach and mentorship activities with students from communities that have been marginalized and/or are historically underrepresented in STEM. However, I recognize that I have not done enough; I have been more complacent than is acceptable. Going forward, I hope to take a more active role in dismantling the pervasive issues that plague our society. I see the practice of science as something beautiful, an opportunity to learn about our world and to make it better for each other. I believe that it can and must be shared by everyone. 
+Recent events in the United States have made it clearer than ever to many people that our country exhibits pervasive problems with racism and discrimination. As much as we might like to believe otherwise, academia is not immune from these problems and in fact suffers from many issues regarding a lack of diversity, equity, and inclusion. In many cases people are actively driven from academic communities by the misdeeds of others and the burdens of a system that carries the marks of this country's long history of discrimination. During my as yet brief career, I have tried to contribute to activities that help to weaken the barriers of discrimination. I have engaged in a variety outreach and mentorship activities with students from communities that have been historically excluded from STEM. However, I recognize that I have not done enough; I have been more complacent than is acceptable. Going forward, I hope to take a more active role in dismantling the pervasive issues that plague our community. I see the practice of science as something beautiful, an opportunity to learn about our world and to make it better for each other. I believe that it can and must be shared by everyone. 
 
 
 ### Membership on the CDA Noxious Weed Adivsory Committee
@@ -50,7 +50,7 @@ At the beginning of 2021 I was appointed to a two-year term as an at-large membe
 
 ### Co-organization of the SOL Seminar Online series
 
-I am one of the organizers for the [Solanaceae Seminar Online](https://physaloidseminars.weebly.com/) series, a virtual platform for the discussion of research in the Solanaceae that hosts an international community of plant researchers. 
+I am one of the organizers for the [Solanaceae Seminar Online](https://physaloidseminars.weebly.com/) series, a virtual, multilingual platform for the discussion of research in the Solanaceae that hosts an international community of plant researchers. 
 
 
 ### Contact me
