@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New preprint: How to approach the study of syndromes in macroevolution
+title: New preprint -- How to approach the study of syndromes in macroevolution
 ---
 
 
