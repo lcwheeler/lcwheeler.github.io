@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2021
 <hr>
 
-Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/)
+Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/); doi:10.32942/osf.io/bt2km
 
 
 **Wheeler LC**, Harms MJ (2021). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261)
