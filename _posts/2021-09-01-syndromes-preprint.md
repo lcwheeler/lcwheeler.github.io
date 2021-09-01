@@ -1,9 +1,11 @@
 ---
 layout: post
-title: New preprint from the Smith lab: How to approach the study of syndromes in macroevolution
+title: New preprint: How to approach the study of syndromes in macroevolution
 ---
 
+
 After a considerable amount of time and effort we have completed a perspective/review piece on the concept of syndromes in macroevolution. We argue that application of rigorous approaches at each stage of investigation is essential to establish the existence of a syndrome and associate it with adapation to a specific selective pressure (see Figure 1 below). 
+
 
 #### Abstract
 
