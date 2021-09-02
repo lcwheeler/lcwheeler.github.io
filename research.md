@@ -6,6 +6,7 @@ permalink: /research/
 
 ## Working at the interface of biochemistry and evolutionary biology
 
+*Wordcloud generated from the abstracts of all my published papers*
 ![an image alt text]({{ site.baseurl }}/img/abstract-cloud-smaller.jpg "wordcloud") 
 
 Over the course of my undergraduate and graduate careers my interests have shifted progressivley more toward evolutionary biology. Evolution is the driving force that underlies all of the biological complexity and diversity on Earth. That a random process---governed solely by the physical rules of the universe---can give rise to amazingly complex, self-organizing, self-replicating systems is both beautiful and amazing. What are the mechanisms of this process? How are simple physical and chemical principles translated into the amazing complexity that we see in living systems? How does the architecture of individual living things constrain evolutionary outcomes? How do interactions within populations shape evolutionary processes? These are the types of questions that drive my passion for scientific research! 
