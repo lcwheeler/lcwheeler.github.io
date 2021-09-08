@@ -23,7 +23,7 @@ I received my PhD in biochemistry from the University of Oregon in 2017. In Janu
 
 ### Outreach and mentorship activities
 
-Growing up, I participated many years in a row in the [Inventerprise](http://inventerprise.bendresearch.com/) contest hosted by Bend Research, Inc., which won me the opportunity to visit the research campus and interact with professional scientists. It was an invaluable chance to learn about the scientific process in an educational environment. Those experiences shaped my view of science and inspired me to pursue a scientific career. In an effort to inspire a love of science in others, I
+Growing up, I participated many years in a row in the [Inventerprise](https://or-inventerprise.zfairs.com/?f=e0737ea8-1ba7-4a10-8f75-8c5fff62bfb0) contest hosted by Bend Research, Inc., which won me the opportunity to visit the research campus and interact with professional scientists. It was an invaluable chance to learn about the scientific process in an educational environment. Those experiences shaped my view of science and inspired me to pursue a scientific career. In an effort to inspire a love of science in others, I
 have engaged in outreach activities periodically since the beginning of my undergraduate education. 
 I was the secretary, and later the vice president, of the [Undergraduate Chemistry Society](http://www.chemistry.montana.edu/undergraduate/society.html) at Montana State. In graduate school I 
 participated in the [Mad Duck Science Friday](https://sciencefriday.uoregon.edu/) series and several 
