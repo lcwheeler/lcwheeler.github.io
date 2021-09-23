@@ -12,6 +12,10 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2021
 <hr>
 
+Huffine CA, **Wheeler LC**, Wing BA, Cameron JC (2021). Computational modeling and evolutionary implications of biochemical
+reactions in bacterial microcompartments. [EcoEvoRxiv](https://ecoevorxiv.org/352u9/); doi:10.32942/osf.io/352u9
+
+
 Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/); doi:10.32942/osf.io/bt2km
 
 
