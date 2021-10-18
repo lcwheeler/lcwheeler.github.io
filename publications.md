@@ -12,6 +12,9 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2021
 <hr>
 
+**Wheeler LC**, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Evolution of flower color genes in petunias and their wild relatives. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk); doi:10.32942/osf.io/3tdfk
+
+
 Huffine CA, **Wheeler LC**, Wing BA, Cameron JC (2021). Computational modeling and evolutionary implications of biochemical
 reactions in bacterial microcompartments. [EcoEvoRxiv](https://ecoevorxiv.org/352u9/); doi:10.32942/osf.io/352u9
 
