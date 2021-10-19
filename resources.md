@@ -72,6 +72,11 @@ Emergent properties arise from interactions between individual agents within sys
 ## Datasets and article repos
 <hr><hr>
 
+[SRA BioProject RNA-seq dataset for "Evolution of flower color genes in petunias and their wild relatives"](https://www.ncbi.nlm.nih.gov/sra/PRJNA746328)
+
+
+[OSF repo for "Evolution of flower color genes in petunias and their wild relatives"](https://osf.io/b7gcp/)
+
 
 [Github repo for "Were ancestral proteins less-specific?"](https://github.com/harmslab/were-anc-less-specific)
 
