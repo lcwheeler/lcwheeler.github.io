@@ -28,7 +28,7 @@ Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith 
 #### 2020
 <hr>
 
-**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212) (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
+**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution. [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212) (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
 
 
 **Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [Protein Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3958) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1))
