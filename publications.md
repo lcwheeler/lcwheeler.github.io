@@ -12,47 +12,47 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2021
 <hr>
 
-**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Evolution of flower color genes in petunias and their wild relatives. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk); doi:10.32942/osf.io/3tdfk
+**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Evolution of flower color genes in petunias and their wild relatives. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk)
 
 
 Huffine CA, **Wheeler LC**, Wing BA, Cameron JC (2021). Computational modeling and evolutionary implications of biochemical
-reactions in bacterial microcompartments. [Current Opinion in Microbiology](https://www.sciencedirect.com/science/article/pii/S1369527421001375?dgcid=coauthor) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/352u9/); doi:10.32942/osf.io/352u9)
+reactions in bacterial microcompartments. [Current Opinion in Microbiology](https://www.sciencedirect.com/science/article/pii/S1369527421001375?dgcid=coauthor) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/352u9/))
 
 
-Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/); doi:10.32942/osf.io/bt2km
+Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/)
 
 
-**Wheeler LC**, Harms MJ (2021). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1); doi: 10.1101/2020.05.27.120261)
+**Wheeler LC**, Harms MJ (2021). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1))
 
 
 #### 2020
 <hr>
 
-**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212); doi:10.1002/evl3.212 (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
+**Wheeler LC\***, Wing BA, Smith SD (2020). Structure and contingency determine mutational hotspots for flower color evolution [Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.212) (a version of this article is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.18.256503v1))
 
 
-**Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [Protein Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3958); doi.org/10.1002/pro.3958. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1); doi: 10.1101/2020.06.02.131086v1.)
+**Wheeler LC**, Perkins A, Wong CE, Harms MJ (2020). Learning Peptide Recognition Rules for a Low-Specificity Protein. [Protein Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3958) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.131086v1))
 
 
 #### 2019
 <hr>
 
 **Wheeler LC\***, Smith SD (2019). Computational modeling of anthocyanin pathway evolution: Biases, hotspots, and trade-offs.
-[Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icz049/5497801?guestAccessKey=6d4d5dc9-52b6-4a41-8789-0e90597a0816); doi:10.1093/icb/icz049. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: 10.1101/511089.)
+[Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icz049/5497801?guestAccessKey=6d4d5dc9-52b6-4a41-8789-0e90597a0816) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089))
 
 
 #### 2018
 <hr>
 
-Duvvuri H, **Wheeler LC**, Harms MJ (2018). pytc: open source python software for global analyses of isothermal titration calorimetry data. [Biochemistry](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b01264); doi: 10.1021/acs.biochem.7b01264. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682))
+Duvvuri H, **Wheeler LC**, Harms MJ (2018). pytc: open source python software for global analyses of isothermal titration calorimetry data. [Biochemistry](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b01264) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682))
 
 
-**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2018). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
+**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2018). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086) (a version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
 
 #### 2017
 <hr>
 
-**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: 10.1186/s13628-017-0040-y 
+**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y)
 
 
 #### 2016
@@ -60,11 +60,11 @@ Duvvuri H, **Wheeler LC**, Harms MJ (2018). pytc: open source python software fo
 
 **Wheeler LC**, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
-[PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740) 11(10): e0164740. doi:10.1371/journal.pone.0164740 
+[PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740)
 
 
 **Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
-and specificity of ancient proteins. [Current Opinions in Structural Biology](http://www.sciencedirect.com/science/article/pii/S0959440X16300501). doi: 10.1016/j.sbi.2016.05.015 (LCW and SAL contributed equally to the work) 
+and specificity of ancient proteins. [Current Opinions in Structural Biology](http://www.sciencedirect.com/science/article/pii/S0959440X16300501) (LCW and SAL contributed equally to the work) 
 
 
 ## Doctoral dissertation
