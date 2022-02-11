@@ -9,17 +9,20 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 <hr><hr>
 
 
+#### 2022
+<hr>
+
+Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. Ecology and Evolution (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/))
+
+
 #### 2021
 <hr>
 
-**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Evolution of flower color genes in petunias and their wild relatives. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk)
+**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk)
 
 
 Huffine CA, **Wheeler LC**, Wing BA, Cameron JC (2021). Computational modeling and evolutionary implications of biochemical
 reactions in bacterial microcompartments. [Current Opinion in Microbiology](https://www.sciencedirect.com/science/article/pii/S1369527421001375?dgcid=coauthor) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/352u9/))
-
-
-Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/)
 
 
 **Wheeler LC**, Harms MJ (2021). Were ancestral proteins less specific? [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab019/6126412) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.27.120261v1))
