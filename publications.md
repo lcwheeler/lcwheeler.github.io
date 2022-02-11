@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2022
 <hr>
 
-Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution. Ecology and Evolution (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/))
+Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2021). How to approach the study of syndromes in macroevolution and ecology. Ecology and Evolution (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/))
 
 
 #### 2021
