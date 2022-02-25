@@ -12,14 +12,14 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2022
 <hr>
 
+**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Holly M Robertson, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2022). Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway. [Molecular Biology and Evolution](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac044/6536971?guestAccessKey=1e3c7fc1-043a-48fa-93c7-9640e850a5b2) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk))
+
+
 Sinnott-Armstrong M, Deanna R, Pretz C, Harris J, Dunbar-Wallis A, Liu S, Smith SD, **Wheeler LC\*** (2022). How to approach the study of syndromes in macroevolution and ecology. Ecology and Evolution (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/bt2km/))
 
 
 #### 2021
 <hr>
-
-**Wheeler LC\***, Walker JF, Ng J, Deanna R, Dunbar-Wallis A, Backes A, Pezzi PH, Virginia Palchetti M, Monaghan A, Brandão de Freitas L, Barboza GE, Moyroud E, Smith SD. (2021). Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway. [EcoEvoRxiv](https://ecoevorxiv.org/3tdfk)
-
 
 Huffine CA, **Wheeler LC**, Wing BA, Cameron JC (2021). Computational modeling and evolutionary implications of biochemical
 reactions in bacterial microcompartments. [Current Opinion in Microbiology](https://www.sciencedirect.com/science/article/pii/S1369527421001375?dgcid=coauthor) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/352u9/))
