@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career announcement: moving to Colorado State University!
+title: Career announcement--moving to Colorado State University!
 ---
 
 
