@@ -12,6 +12,12 @@ permalink: /research/
 Over the course of my undergraduate and graduate careers my interests have shifted progressivley more toward evolutionary biology. Evolution is the driving force that underlies all of the biological complexity and diversity on Earth. That a random process---governed solely by the physical rules of the universe---can give rise to amazingly complex, self-organizing, self-replicating systems is both beautiful and amazing. What are the mechanisms of this process? How are simple physical and chemical principles translated into the amazing complexity that we see in living systems? How does the architecture of individual living things constrain evolutionary outcomes? How do interactions within populations shape evolutionary processes? These are the types of questions that drive my passion for scientific research! 
 
 
+### Hybridization and phenotypic evolution in Penstemon
+![an image alt text]({{ site.baseurl }}/img/Penstemon-wasp.JPG "Penstemon glaber") 
+
+My current work, with [Dr. Carrie Wessinger](https://wessingerlab.github.io/) at the University of South Carolina, aims to characterize the history and adaptive impacts of hybridization and introgression in the *Habroanthus* section of the genus *Penstemon*. We are using field studies in natural hybrid zones, whole-genome re-sequencing, phylogenomics, transcriptomics, and phenotypic measurements to understand how introgression between species with different pollinators has influenced the evolution of plant phenotypes. We hope to determine whether adaptive introgression was involved in the repeated evolution of the hummingbird pollinated phenotype in *Habroanthus* and how different pollination systems have shaped the population-level dynamics and macroevolutionary history in the clade. 
+
+
 
 ### The molecular mechanisms of flower color evolution
 ![an image alt text]({{ site.baseurl }}/img/flower-color.jpg "Iochroma pics") 

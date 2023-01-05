@@ -58,4 +58,4 @@ I am one of the organizers for the [Solanaceae Seminar Online](https://physaloid
 ### Contact me
 
 #### If you would like to contact me regarding my research, collaboration, etc. please use the following email. 
-[lucas.wheeler@colorado.edu](mailto:email@domain.com)
+[lwheeler9@gmail.com](mailto:email@domain.com)
