@@ -65,3 +65,8 @@ This image was used on the cover of [Volume 59, Issue 3](https://academic.oup.co
 #### A wasp rests inside a Penstemon glaber var. alpinus flower on a cool, wet day near Mt. Herman, CO
 ![an image alt text]({{ site.baseurl }}/img/Penstemon-wasp.JPG "Cover")
 
+#### A field of Helianthus petiolaris grows on the dune field at Great Sand Dunes National Park
+This photo won the best landscape photo award in the 2022 [Colorado Native Plant Society](https://conps.org/) Photo contest
+![an image alt text]({{ site.baseurl }}/img/LucasCWheeler-colorado-native-landscapes-Helianthus_petiolaris.JPG "CONPS")
+
+
