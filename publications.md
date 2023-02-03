@@ -8,6 +8,11 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 ## Research and review articles
 <hr><hr>
 
+#### 2023
+<hr>
+
+**Wheeler LC\***, Dunbar-Wallis A, Schutz K, Smith SD. (2023).  Evolutionary walks through flower color space driven by gene expression in Petunia and allies (Petunieae). [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/4991/)
+
 
 #### 2022
 <hr>

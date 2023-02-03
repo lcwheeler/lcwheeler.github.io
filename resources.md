@@ -72,6 +72,9 @@ Emergent properties arise from interactions between individual agents within sys
 ## Datasets and article repos
 <hr><hr>
 
+[OSF repo for "Evolutionary walks through flower color space driven by gene expression in Petunia and allies (Petunieae)"](https://osf.io/zg9cu/)
+
+
 [SRA BioProject RNA-seq dataset for "Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway."](https://www.ncbi.nlm.nih.gov/sra/PRJNA746328)
 
 
