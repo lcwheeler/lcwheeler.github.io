@@ -62,7 +62,7 @@ This image was used on the cover of [Volume 59, Issue 3](https://academic.oup.co
 #### Penstemon hallii on Guanella Pass, CO
 ![an image alt text]({{ site.baseurl }}/img/Phallii.JPG "Cover")
 
-#### A wasp rests inside a Penstemon glaber var. alpinus flower on a cool, wet day near Mt. Herman, CO
+#### A wasp rests inside a Penstemon glaber var. brandegeei flower on a cool, wet day near Mt. Herman, CO
 ![an image alt text]({{ site.baseurl }}/img/Penstemon-wasp.JPG "Cover")
 
 #### A field of Helianthus petiolaris grows on the dune field at Great Sand Dunes National Park
