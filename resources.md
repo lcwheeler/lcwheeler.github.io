@@ -74,6 +74,9 @@ Emergent properties arise from interactions between individual agents within sys
 ## Datasets and article repos
 <hr><hr>
 
+[Dryad repo for "Predictive links between petal color and pigment quantities in natural Penstemon hybrids"](https://datadryad.org/stash/dataset/doi:10.5061/dryad.vhhmgqp09)
+
+
 [OSF repo for "Evolutionary walks through flower color space driven by gene expression in Petunia and allies (Petunieae)"](https://osf.io/zg9cu/)
 
 
