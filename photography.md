@@ -43,9 +43,6 @@ On this page are a few of my favorite photos that I have taken.
 This image won "Best Plant Photo" in Denver-Boulder 2019 City Nature Challenge on iNaturalist
 ![an image alt text]({{ site.baseurl }}/img/winning-simpsons-hedgehog.JPG "Simpsons")
 
-#### Two Penstemon species grow sympatrically near Telluride, CO
-![an image alt text]({{ site.baseurl }}/img/Penstemon-explosion.JPG "Cover")
-
 #### Petunia scheideana (ssp. guarapuavensis) with petal cell inset
 This image was used on the cover of [Volume 59, Issue 3](https://academic.oup.com/icb/issue/59/3) of Integrative and Comparative Biology
 ![an image alt text]({{ site.baseurl }}/img/cover-submission-lcw-sds.jpg "Cover")
@@ -56,14 +53,17 @@ This image was used on the cover of [Volume 59, Issue 3](https://academic.oup.co
 #### Uma rufopunctata in Cabeza Prieta National Wildife Refuge, AZ
 ![an image alt text]({{ site.baseurl }}/img/Uma-rufopunctata-stylish.JPG "Cover")
 
-#### A Nevada Bumblebee (Bombus nevadensis) visits a Gentiana parryi flower in Boulder County
+#### A White-shouldered Bumblebee (Bombus appositus) visits a Gentiana parryi flower in Boulder County
 ![an image alt text]({{ site.baseurl }}/img/Nevada-bumblebee-gentiana.JPG "Cover")
 
 #### Penstemon hallii on Guanella Pass, CO
 ![an image alt text]({{ site.baseurl }}/img/Phallii.JPG "Cover")
 
-#### A wasp rests inside a Penstemon glaber var. brandegeei flower on a cool, wet day near Mt. Herman, CO
+#### A wasp rests inside a Penstemon glaber flower on a cool, wet day near Mt. Herman, CO
 ![an image alt text]({{ site.baseurl }}/img/Penstemon-wasp.JPG "Cover")
+
+#### A Bombus huntii visits Penstemon virens at Walker Ranch, Boulder county, CO
+![an image alt text]({{ site.baseurl }}/img/bombus-huntii-Pvirens.JPG "Cover")
 
 #### A field of Helianthus petiolaris grows on the dune field at Great Sand Dunes National Park
 This photo won the best landscape photo award in the 2022 [Colorado Native Plant Society](https://conps.org/) Photo contest
