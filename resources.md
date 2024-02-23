@@ -62,6 +62,8 @@ Emergent properties arise from interactions between individual agents within sys
 ## Recorded presentations
 <hr><hr>
 
+[Evolution 2023 in Albuquerque, New Mexico](https://www.youtube.com/watch?v=7uA_V5MEv6Y)
+
 [Colorado Native Plant Society 2023 in Denver, Colorado](https://www.youtube.com/watch?v=5jaUkolVVUI) 
 
 [Solanaceae Seminar Series 2020, Online](https://www.youtube.com/watch?v=OhSREoCemU0&feature=youtu.be)
