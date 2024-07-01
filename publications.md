@@ -11,7 +11,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2024
 <hr>
 
-Pezzi PH, **Wheeler LC**, Brandão de Freitas L, Smith SD (2024). Incomplete lineage sorting and hybridization as drivers of tree discordance in Petunia and related genera (Petunieae, Solanaceae). [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/6889/)
+Pezzi PH, **Wheeler LC**, Brandão de Freitas L, Smith SD (2024). Incomplete lineage sorting and hybridization underlie tree discordance in Petunia and related genera (Petunieae, Solanaceae). [Molecular Phylogenetics and Evolution](https://www.sciencedirect.com/science/article/abs/pii/S1055790324001283) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/6889/))
 
 
 
