@@ -42,7 +42,7 @@ Recent events in the United States have made it clearer than ever to many people
 
 ### Membership on the CDA Noxious Weed Advisory Committee
 
-At the beginning of 2021 I was appointed to a two-year term as an at-large member of the Colorado Department of Agriculture [Noxious Weed Advisory Committee](https://ag.colorado.gov/conservation/noxious-weeds/advisory-committee). The purpose of the committee is to advise CDA on strategies for the classification and management of noxious weeds in the state of Colorado. As an at-large member my constituency is the entire state, so if you live in Colorado and you have questions, comments, concerns, or ideas about noxious weed management, please reach out. 
+From 2021 through the end of 2024 I served as an at-large member, then vice-chair, and finally chair of the Colorado Department of Agriculture [Noxious Weed Advisory Committee](https://ag.colorado.gov/conservation/noxious-weeds/advisory-committee). The purpose of the committee is to advise CDA on strategies for the classification and management of noxious weeds in the state of Colorado. As an at-large member my constituency was the entire state. After serving two terms I have rotated off the NWAC, but I care about noxious weed issues in Colorado and maintain connections with people working in that space, so if you live in Colorado and you have questions, comments, concerns, or ideas about noxious weed management, please reach out. 
 
 ### Co-organization of the SOL Seminar Online series
 
