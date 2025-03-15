@@ -28,7 +28,7 @@ Pezzi PH, **Wheeler LC**, Brandão de Freitas L, Smith SD (2024). Incomplete lin
 Stevens JTE, **Wheeler LC**, Williams NH, Norton AM, Wessinger CA (2023). Predictive links between petal color and pigment quantities in natural Penstemon hybrids. [Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icad073/7199657?redirectedFrom=fulltext) (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.06.535869v1))
 
 
-**Wheeler LC\***, Dunbar-Wallis A, Schutz K, Smith SD (2023).  Evolutionary walks through flower color space driven by gene expression in Petunia and allies (Petunieae). [Proceedings of the Royal Society B: Biological Sciences](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0275) (A version of this article is also available at[EcoEvoRxiv](https://ecoevorxiv.org/repository/view/4991/))
+**Wheeler LC\***, Dunbar-Wallis A, Schutz K, Smith SD (2023).  Evolutionary walks through flower color space driven by gene expression in Petunia and allies (Petunieae). [Proceedings of the Royal Society B: Biological Sciences](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0275) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/4991/))
 
 
 #### 2022
