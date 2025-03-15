@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2025
 <hr>
 
-**Wheeler LC**, Larter M, Smith SD (2025). Flavonol-regulating MYB underlies the evolution of red flowers in Iochroma (Solanaceae). [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/8748/))
+**Wheeler LC**, Larter M, Smith SD (2025). Flavonol-regulating MYB underlies the evolution of red flowers in Iochroma (Solanaceae). [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/8748/)
 
 
 #### 2024
