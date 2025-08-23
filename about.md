@@ -20,6 +20,10 @@ I received my PhD in biochemistry from the University of Oregon in 2017. In Janu
 
 ## More Information
 
+### CU Boulder Green Labs Program 
+
+In July 2025, I started a new position as the Shared Equipment Coordinator for the [Green Labs program](https://www.colorado.edu/ecenter/programs/cu-green-labs-program) at CU Boulder, which is housed in the Environmental Center. My work with Green Labs centers on establishing a new network of shared research equipment on campus in collaboration with various departments. [The Green Labs Shared Equipment Core](https://www.colorado.edu/lab/biocore/) is part of a coalition of core facilities on campus. At Green Labs we are working toward increasing access to research equipment for undergraduate and graduate researchers, as well as reducing the cost and environmental footprint of the research enterprise on campus. Properly managed shared equipment tends to more efficient and more reliable than housing redundant equipment exclusively within individual laboratories. There are a myriad of underutilized resources on campus that we are working to integrate into the program and put to better use for the research community. 
+
 
 ### Outreach and mentorship activities
 
