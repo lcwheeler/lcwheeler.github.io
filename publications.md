@@ -12,7 +12,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2025
 <hr>
 
-**Wheeler LC**, Larter M, Smith SD (2025). MYB regulator of ‘colorless’ flavonols underlies the evolution of red flowers in Iochroma (Solanaceae). [Genes | Genomes | Genetics](https://track.smtpsendmail.com/9032119/c?p=dHjHkl1gr5uIoSctEveyD03aYAgKlFDa3K-uGIaBA-aG52ljI5Mylql4c5oLGbSX5WKAh3g4AhseG9LR3En4PpPYCvjo2vzf8JjHWtwMhF-w_m3wOLQ9Sr7kZzklBo_T0-kcXffz309Nm6wwvLzYO_OKcwiYxBRsy_leGfCrMn7qRE_eaknLI1hKTrkBGl0yTBCjBBlOErxFheropyBEltJM-_RF3pydVCDlSy2OLO_T_Uz6iJjNj7MBTnFM4nTp673JefQfEXRviAiDMC4bXMi0ReDvhNddR5fiyjk0m73VIT4iXQWv422IZ3WWQHfXaa5EPEM0voo61_kTstWO14eTPLlktoU-DHQAOKenb7qZ6Fx-97rw14hrPNWneX3_Cqn4ITWN1MIlHSpeiGRy_QcRmHEr_DqglwPyiYlrqnM=) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/8748/))
+**Wheeler LC**, Larter M, Smith SD (2025). MYB regulator of ‘colorless’ flavonols underlies the evolution of red flowers in Iochroma (Solanaceae). [G3](https://track.smtpsendmail.com/9032119/c?p=dHjHkl1gr5uIoSctEveyD03aYAgKlFDa3K-uGIaBA-aG52ljI5Mylql4c5oLGbSX5WKAh3g4AhseG9LR3En4PpPYCvjo2vzf8JjHWtwMhF-w_m3wOLQ9Sr7kZzklBo_T0-kcXffz309Nm6wwvLzYO_OKcwiYxBRsy_leGfCrMn7qRE_eaknLI1hKTrkBGl0yTBCjBBlOErxFheropyBEltJM-_RF3pydVCDlSy2OLO_T_Uz6iJjNj7MBTnFM4nTp673JefQfEXRviAiDMC4bXMi0ReDvhNddR5fiyjk0m73VIT4iXQWv422IZ3WWQHfXaa5EPEM0voo61_kTstWO14eTPLlktoU-DHQAOKenb7qZ6Fx-97rw14hrPNWneX3_Cqn4ITWN1MIlHSpeiGRy_QcRmHEr_DqglwPyiYlrqnM=) (A version of this article is also available at [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/8748/))
 
 
 #### 2024
